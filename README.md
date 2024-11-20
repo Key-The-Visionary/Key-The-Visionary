@@ -3,7 +3,7 @@
 
 
 
-I am a current student at Wittenberg University pursuing a bachelor's degree in Computer Science with Cybersecurity Concentration. The challenge of addressing complicated problems has always captivated me, especially in domains where creativity and critical thinking are crucial. I find cybersecurity in particular to be a dynamic and quickly changing field that necessitates a continuous balancing act between creativity and attentiveness. 
+I am a current student at Wittenberg University pursuing a bachelor's degree in Computer Science with Cybersecurity Concentration. The challenge of addressing complicated problems has always captivated me, especially in domains where creativity and critical thinking are crucial. I find cybersecurity in particular to be a dynamic and quickly changing field that necessitates a continuous balancing act between creativity and attentiveness. In this repository you will be able to locate items such as: Resume, Professional statement, Ethical Hacking Activities, and CTF activities and challenges. 
 
 ## Objective
 
@@ -29,18 +29,12 @@ My quest to learn as much as I can in computer science has led me to establish a
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-00A9E0?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-1A9F77?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
