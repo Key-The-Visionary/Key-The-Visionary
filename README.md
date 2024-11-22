@@ -11,16 +11,15 @@ I am a current student at Wittenberg University pursuing a bachelor's degree in 
 My quest to learn as much as I can in computer science has led me to establish a love for cybersecurity, and I am now excited to transition into this field, particularly targeting a position as a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| NCL Competition          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| NCL Competition Team Game Report         | <a href="https://cyberskyline.com/report/GQR3DAABC3P3">Team Game Report</a>|
+| NCL Competition Individual Game Report  | <a href="https://cyberskyline.com/report/1UAQC2ARFBY6">Individual Game Report</a>|
+| Analyzing Network Traffic Using Wireshark         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Performing and Conducting Arp spoofing attack                  | SOC Automation Lab|
+| Using Nessus to run a vulnerability scan on a network | SOC Automation Lab|
 
 ## Tools
 
@@ -44,7 +43,8 @@ My quest to learn as much as I can in computer science has led me to establish a
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Analyzing packets using wireshark
+- Arp Spoofing attack
+- NCL CTF challenges
 
 
