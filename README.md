@@ -37,7 +37,6 @@ My quest to learn as much as I can in computer science has led me to establish a
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
@@ -46,6 +45,6 @@ My quest to learn as much as I can in computer science has led me to establish a
 - Analyzing packets using wireshark
 - Arp Spoofing attack
 - Using Vulnerability Scanner Nessesus
-- NCL CTF challenges
+- <a href="https://github.com/Key-The-Visionary/NCL-Report">NCL Report Team/Individual Game Report</a>
 
 
