@@ -1,4 +1,4 @@
-# Hello, I'm Key
+# Hello, I'm Key!
 <a href=https://www.linkedin.com/in/key-upchurch-613615338/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -9,6 +9,18 @@ I am a current student at Wittenberg University pursuing a bachelor's degree in 
 
 
 My quest to learn as much as I can in computer science has led me to establish a love for cybersecurity, and I am now excited to transition into this field, particularly targeting a position as a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+<ul>
+    <li>Analyzing packets using wireshark</li>
+    <li><a href="https://github.com/Key-The-Visionary/Arp-Spoofing-/blob/main/README.md">ARP Spoofing attack</a></li>
+    <li> Using Vulnerability Scanner Nessesus</li>
+    <li> <a href="https://github.com/Key-The-Visionary/NCL-Report">NCL Report Team/Individual Game Report</a> </li>
+    
+</ul>
 
 ## Skills
 
@@ -43,11 +55,12 @@ My quest to learn as much as I can in computer science has led me to establish a
 
 ## Resume
 
+<h2> 🤳 Connect with me:</h2>
 
-## Projects
-- Analyzing packets using wireshark
--  <a href="https://github.com/Key-The-Visionary/Arp-Spoofing-/blob/main/README.md">ARP Spoofing attack</a>
-- Using Vulnerability Scanner Nessesus
-- <a href="https://github.com/Key-The-Visionary/NCL-Report">NCL Report Team/Individual Game Report</a>
+[<img align="left" alt="KeyUpchurch | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="KeyUpchurch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://www.youtube.com/@KeyUpchurch
+[linkedin]:https://www.linkedin.com/in/key-upchurch-613615338/
 
 
