@@ -4,7 +4,7 @@
 <a href="https://github.com/Key-The-Visionary/Resume/blob/main/README.md"><img src="https://img.shields.io/badge/-Resume-000000?&style=for-the-badge&logo=page&logoColor=white" /></a>
 
 # Professional Statement 🤵
-<a href="https://your-link-to-professional-statement"><img src="https://img.shields.io/badge/-Professional_Statement-8e44ad?&style=for-the-badge&logo=suitcase&logoColor=white" /></a>
+<a href="https://github.com/Key-The-Visionary/Professional-Statement/blob/main/README.md"><img src="https://img.shields.io/badge/-Professional_Statement-8e44ad?&style=for-the-badge&logo=suitcase&logoColor=white" /></a>
 
 
 -------------------------------------------------------------------------------------------
