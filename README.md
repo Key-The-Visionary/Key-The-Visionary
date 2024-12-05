@@ -44,14 +44,14 @@ My quest to learn as much as I can in computer science has led me to establish a
 ## Tools
 
 
-### Network
+**Network**
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-00A9E0?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-1A9F77?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
-### Endpoint
+**Endpoint**
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
