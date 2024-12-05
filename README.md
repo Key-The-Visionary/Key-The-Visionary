@@ -25,6 +25,7 @@ My quest to learn as much as I can in computer science has led me to establish a
     <li><a href="https://github.com/Key-The-Visionary/Arp-Spoofing-/blob/main/README.md">ARP Spoofing attack</a></li>
     <li> Using Vulnerability Scanner Nessus</li>
     <li> <a href="https://github.com/Key-The-Visionary/NCL-Report">NCL Report Team/Individual Game Report</a> </li>
+     <li> <a href="https://github.com/Key-The-Visionary/NCL-Report">Working with Bind & Reverse Shells</a> </li>
     
 </ul>
 
@@ -32,8 +33,8 @@ My quest to learn as much as I can in computer science has led me to establish a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| NCL Competition Team Game Report         | <a href="https://cyberskyline.com/report/GQR3DAABC3P3">Team Game Report</a>|
-| NCL Competition Individual Game Report  | <a href="https://cyberskyline.com/report/1UAQC2ARFBY6">Individual Game Report</a>|
+| Working with Bind & Reverse shells         | <a href="https://cyberskyline.com/report/GQR3DAABC3P3">Shells & Botnets</a>|
+| NCL C  | <a href="https://cyberskyline.com/report/1UAQC2ARFBY6">Individual Game Report</a>|
 | Analyzing Network Traffic Using Wireshark         | <a href="https://github.com/Key-The-Visionary/Wireshark-project">Wireshark Project</a>|
 | Performing Passive Recon      | <a href="https://cyberskyline.com/report/1UAQC2ARFBY6">Passive Recon Lab</a>|
 | Performing and Conducting Arp spoofing attack                  | <a href="https://github.com/Key-The-Visionary/Arp-Spoofing-/blob/main/README.md">ARP Spoofing attack</a>|
