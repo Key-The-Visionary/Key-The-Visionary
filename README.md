@@ -28,7 +28,7 @@ My quest to learn as much as I can in computer science has led me to establish a
 |-----------------------------------------------|----------------------------|
 | NCL Competition Team Game Report         | <a href="https://cyberskyline.com/report/GQR3DAABC3P3">Team Game Report</a>|
 | NCL Competition Individual Game Report  | <a href="https://cyberskyline.com/report/1UAQC2ARFBY6">Individual Game Report</a>|
-| Analyzing Network Traffic Using Wireshark         | <a href="https://github.com/Key-The-Visionary/Wireshark-project">Individual Game Report</a>|
+| Analyzing Network Traffic Using Wireshark         | <a href="https://github.com/Key-The-Visionary/Wireshark-project">Wireshark Project</a>|
 | Performing Active & Passive Recon      | <a href="https://cyberskyline.com/report/1UAQC2ARFBY6">Individual Game Report</a>|
 | Performing and Conducting Arp spoofing attack                  | <a href="https://github.com/Key-The-Visionary/Arp-Spoofing-/blob/main/README.md">ARP Spoofing attack</a>|
 | Using Nessus to run a vulnerability scan on a network | <a href="https://cyberskyline.com/report/1UAQC2ARFBY6">Individual Game Report</a>|
