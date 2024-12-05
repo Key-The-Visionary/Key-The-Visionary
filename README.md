@@ -1,7 +1,7 @@
 # Hello, I'm Key!
 
 # My Resume 📄
-<a href="https://cyberskyline.com/report/1UAQC2ARFBY6">Individual Game Report</a>
+<a href="https://github.com/Key-The-Visionary/Resume/blob/main/README.md">Resume</a>
 Here you can find my professional resume and details about my skills and experience.
 
 <a href=https://www.linkedin.com/in/key-upchurch-613615338/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
