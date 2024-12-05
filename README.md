@@ -1,6 +1,8 @@
 # Hello, I'm Key!
 
 # My Resume 📄
+<a href=""><img src="https://img.shields.io/badge/-Resume-000000?&style=for-the-badge&logo=page&logoColor=white" /></a>
+
 <a href="https://github.com/Key-The-Visionary/Resume/blob/main/README.md">Resume</a>
 
 Here you can find my professional resume and details about my skills and experience.
