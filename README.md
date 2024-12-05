@@ -1,17 +1,12 @@
 # Hello, I'm Key!
 
 # My Resume 📄
-<a href=""><img src="https://img.shields.io/badge/-Resume-000000?&style=for-the-badge&logo=page&logoColor=white" /></a>
+<a href="https://github.com/Key-The-Visionary/Resume/blob/main/README.md"><img src="https://img.shields.io/badge/-Resume-000000?&style=for-the-badge&logo=page&logoColor=white" /></a>
 
-<a href="https://github.com/Key-The-Visionary/Resume/blob/main/README.md">Resume</a>
-
-Here you can find my professional resume and details about my skills and experience.
+# Professional Statement 🤵
+<a href="https://github.com/Key-The-Visionary/Resume/blob/main/README.md"><img src="https://img.shields.io/badge/-Resume-000000?&style=for-the-badge&logo=page&logoColor=white" /></a>
 
 -------------------------------------------------------------------------------------------
-
-<a href=https://www.linkedin.com/in/key-upchurch-613615338/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
 
 I am a current student at Wittenberg University pursuing a bachelor's degree in Computer Science with Cybersecurity Concentration. The challenge of addressing complicated problems has always captivated me, especially in domains where creativity and critical thinking are crucial. I find cybersecurity in particular to be a dynamic and quickly changing field that necessitates a continuous balancing act between creativity and attentiveness. In this repository you will be able to locate items such as: Resume, Professional statement, Ethical Hacking Activities, and CTF activities and challenges. 
 
