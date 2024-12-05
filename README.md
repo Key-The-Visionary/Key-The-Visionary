@@ -4,7 +4,8 @@
 <a href="https://github.com/Key-The-Visionary/Resume/blob/main/README.md"><img src="https://img.shields.io/badge/-Resume-000000?&style=for-the-badge&logo=page&logoColor=white" /></a>
 
 # Professional Statement 🤵
-<a href="https://github.com/Key-The-Visionary/Resume/blob/main/README.md"><img src="https://img.shields.io/badge/-Resume-000000?&style=for-the-badge&logo=page&logoColor=white" /></a>
+<a href="https://your-link-to-professional-statement"><img src="https://img.shields.io/badge/-Professional_Statement-8e44ad?&style=for-the-badge&logo=suitcase&logoColor=white" /></a>
+
 
 -------------------------------------------------------------------------------------------
 
@@ -45,7 +46,7 @@ My quest to learn as much as I can in computer science has led me to establish a
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-00A9E0?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-1A9F77?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-343a40?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
 **Endpoint**
