@@ -34,7 +34,7 @@ My quest to learn as much as I can in computer science has led me to establish a
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Working with Bind & Reverse shells         | <a href="https://cyberskyline.com/report/GQR3DAABC3P3">Shells & Botnets</a>|
-| NCL C  | <a href="https://cyberskyline.com/report/1UAQC2ARFBY6">Individual Game Report</a>|
+| NCL Competition | <a href="https://cyberskyline.com/report/1UAQC2ARFBY6">Individual Game Report</a>|
 | Analyzing Network Traffic Using Wireshark         | <a href="https://github.com/Key-The-Visionary/Wireshark-project">Wireshark Project</a>|
 | Working with splunk     | <a href="https://cyberskyline.com/report/1UAQC2ARFBY6">Passive Recon Lab</a>|
 | Performing and Conducting Arp spoofing attack                  | <a href="https://github.com/Key-The-Visionary/Arp-Spoofing-/blob/main/README.md">ARP Spoofing attack</a>|
