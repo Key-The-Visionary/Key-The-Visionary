@@ -21,8 +21,8 @@ My quest to learn as much as I can in computer science has led me to establish a
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <ul>
-    <li><a href="https://github.com/Key-The-Visionary/Wireshark-project">Analyzing Arp spoofing attack using wireshark</a></li>
-    <li><a href="https://github.com/Key-The-Visionary/Arp-Spoofing-/blob/main/README.md">ARP Spoofing attack</a></li>
+    <li><a href="https://github.com/Key-The-Visionary/Wireshark-project">Analyzing ARP spoofing attack using wireshark</a></li>
+    <li><a href="https://github.com/Key-The-Visionary/Arp-Spoofing-/blob/main/README.md">Performing an ARP Spoofing attack</a></li>
     <li> Using Vulnerability Scanner Nessus</li>
     <li> <a href="https://github.com/Key-The-Visionary/NCL-Report">NCL Report Team/Individual Game Report</a> </li>
      <li> <a href="https://github.com/Key-The-Visionary/Working-with-Bind-and-Reverse-Shells-Project/blob/main/README.md">Working with Bind & Reverse Shells</a> </li>
