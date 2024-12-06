@@ -21,7 +21,7 @@ My quest to learn as much as I can in computer science has led me to establish a
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <ul>
-    <li><a href="https://github.com/Key-The-Visionary/Wireshark-project">Analyzing ARP spoofing attack using wireshark</a></li>
+    <li><a href="https://github.com/Key-The-Visionary/Wireshark-project">Wireshark Project</a></li>
     <li><a href="https://github.com/Key-The-Visionary/Arp-Spoofing-/blob/main/README.md">Performing an ARP Spoofing attack</a></li>
     <li> <a href="https://github.com/Key-The-Visionary/Nessus-Project/blob/main/README.md">Nesssus Project</a> </li>
     <li> <a href="https://github.com/Key-The-Visionary/NCL-Report">NCL Report Team/Individual Game Report</a> </li>
